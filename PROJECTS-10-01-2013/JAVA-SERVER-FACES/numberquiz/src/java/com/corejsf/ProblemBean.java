@@ -8,7 +8,7 @@ public class ProblemBean implements Serializable {
    private int solution;
    
    public ProblemBean() {}
-
+// TEST BYRON
    public ProblemBean(int[] values, int solution) {
       sequence = new ArrayList<Integer>();
       for (int i = 0; i < values.length; i++)
