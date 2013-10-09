@@ -6,7 +6,7 @@ import java.util.ArrayList;
 public class ProblemBean implements Serializable {
    private ArrayList<Integer> sequence; 
    private int solution;
-   
+   //TEST....RICHARD
    public ProblemBean() {}
 
    public ProblemBean(int[] values, int solution) {
